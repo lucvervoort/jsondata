@@ -1,23 +1,21 @@
 // 20221109154216
-// https://raw.githubusercontent.com/ifeanyidike/jsondata/master/db.json
-
 {
   "users": [
     {
       "id": 1,
-      "name": "Ifeanyi",
+      "name": "Luc Vervoort",
       "job": "Programming",
       "sex": "Male",
-      "noOfChildren": 4,
-      "noOfDependentRelatives": 3
+      "noOfChildren": 0,
+      "noOfDependentRelatives": 0
     },
     {
       "id": 2,
-      "name": "Favor",
+      "name": "Louis Krijnen",
       "job": "Flight Dispatcher",
-      "sex": "Female",
-      "noOfChildren": 3,
-      "noOfDependentRelatives": 1
+      "sex": "Male",
+      "noOfChildren": 2,
+      "noOfDependentRelatives": 2
     }
   ],
   "employees": [
